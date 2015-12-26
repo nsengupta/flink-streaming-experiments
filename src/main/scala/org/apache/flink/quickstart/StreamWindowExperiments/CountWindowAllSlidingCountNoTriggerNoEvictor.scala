@@ -11,7 +11,7 @@ object CountWindowAllSlidingCountNoTriggerNoEvictor {
 
   def main(args: Array[String]) {
 
-    val env = StreamExecutionEnvironment.createLocalEnvironment(1)
+    val env = StreamExecutionEnvironment.createLocalEnvironment(4)
 
     // [NS(Blog)]: We are following the simplest notion of Processing time, indicating that
     // when an event enters this application is the point in time we assume that the event has occurred.
