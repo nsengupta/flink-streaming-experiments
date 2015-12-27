@@ -3,3 +3,4 @@ This is a collection of my own codelets which I have prepared while learning **A
 While my self-education continues, I am trying to chronicle my journey in a blog 
 (http://blogoloquy.blogspot.com) which accompanies the code in this repository.
 
+The datafiles mentioned in the blog, are a part of this repository. 
